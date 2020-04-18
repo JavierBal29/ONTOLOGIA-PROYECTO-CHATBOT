@@ -1818,7 +1818,7 @@ Complementaria - Deportiva</Tipo_de_Actividad>
         <Documentos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acudir a división de estudios</Documentos>
         <Nombre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servicio Social</Nombre>
     </owl:NamedIndividual>
-  </rdf:RDF>
+     </rdf:RDF>
 
 
 
